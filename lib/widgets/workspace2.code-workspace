@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../privateRepo/app/hand_able"
+		},
+		{
+			"path": "../../../pomodoro"
+		}
+	],
+	"settings": {}
+}
